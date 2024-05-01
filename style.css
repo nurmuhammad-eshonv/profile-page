@@ -1,0 +1,53 @@
+body {
+  font-family: "inter";
+}
+
+.card1 {
+  height: 611px;
+  background-color: #1f1f1f;
+  font-family: "inter";
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+.card1 img {
+  margin-top: 40px;
+  width: 88px;
+  height: 88px;
+}
+.title {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  text-align: center;
+  color: white;
+  margin-top: 24px;
+}
+.card1__desc1 {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 21px;
+  text-align: center;
+  color: #c4f82a;
+  margin-top: 4px;
+}
+.card1__desc2 {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: center;
+  margin-top: 24px;
+  color:white
+}
+.main-btn{
+    margin-top: 24px;
+}
+.button{
+    margin-top: 16px;
+}
+
+
