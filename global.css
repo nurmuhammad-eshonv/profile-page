@@ -48,7 +48,9 @@ body {
     background-color: #C4F82A;
     color:black;
 }
-
+.card1{
+    border-radius:12px
+}
 @media screen and (max-width:384px) {
    .card1{
      margin: 24px;
